@@ -6,5 +6,5 @@ Not sure but they are a combination of the following:
 1. Clone the repo
 2. Head to the terminal and type the following:
 ```bash
-python3 port-scanner.py Target_IP_Address
+python3 port-scanner.py Target_IP_Address (Mention the IP Address here)
 ```
